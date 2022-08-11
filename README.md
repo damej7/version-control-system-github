@@ -1,2 +1,2 @@
 # version-control-system-github
-Pengertian dari github dan teman - temannya.
+Pengertian dari VCS (Version Control System) Github dan teman - temannya.
