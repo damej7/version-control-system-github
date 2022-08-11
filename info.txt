@@ -1,0 +1,29 @@
+Git adalah Version Control System (VCS) bisa juga disebut Revision Control System atau Source Control Management.
+Jadi VCS adalah sistem yang mengelola perubahan dari sebuah dokumen, program komputer, website dan kumpulan informasi lainnya.
+
+Kelebihan menggunakan Version Control System (VCS)
+1. Mampu menyimpan setiap perubahan pada source code kita.
+2. Memungkinkan berkolaborasi lebih baik lagi.
+3. Mengetahui siapa melakukan apa dan kapan perubahan tersebut terjadi.
+4. Memungkinkan kita kembali ke keadaan sebelum perubahan terjadi, ini bisa disebut checkout.
+
+Selain git ada juga software atau sistem lainnya seperti :
+1. Mercurial SCM
+2. CVS—Concurrent Versions System
+3. Apache Subversion
+
+Git sendiri adalah software untuk Version Control System, ini dapat berjalan tanpa github atau github saja tanpa git.
+Github adalah layanan cloud yang mengelola project kita.
+
+Istilah yang ada pada git :
+1. Repository (Repo) = folder project kita.
+2. Commit = rekaman / snapshot dari repo.
+3. Hash = penanda string unik pada setiap commit.
+4. Checkout = kembali pada sebuah commit atau sebelum perubahan terjadi.
+5. Branch = cabang dari commit.
+6. Merge = penggabungan branch.
+7. Remote = sumber yang memiliki repo.
+8. Clone = Mengambil repo dari remote.
+9. Push = mengirimkan commit ke repo.
+10. Pull = mengambil commit dari repo.
+
